@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinkedListStack.iml" filepath="$PROJECT_DIR$/LinkedListStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LLLab/untitled.iml" filepath="$PROJECT_DIR$/LLLab/untitled.iml" />
+    </modules>
+  </component>
+</project>
